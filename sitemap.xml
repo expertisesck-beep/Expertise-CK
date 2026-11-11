@@ -48,4 +48,100 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://expertiseck.be/en/faq/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://expertiseck.be/faq/"/>
   </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-halle/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-halle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-halle/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-halle/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-halle/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-halle/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-beersel/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-beersel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-beersel/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-beersel/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-beersel/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-beersel/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-sint-pieters-leeuw/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-sint-pieters-leeuw/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-sint-pieters-leeuw/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-sint-pieters-leeuw/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-sint-pieters-leeuw/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-sint-pieters-leeuw/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-dilbeek/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-dilbeek/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-dilbeek/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-dilbeek/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-dilbeek/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-dilbeek/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-pepingen/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-pepingen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-pepingen/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-pepingen/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-pepingen/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-pepingen/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-sint-genesius-rode/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-sint-genesius-rode/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-rhode-saint-genese/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-rhode-saint-genese/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-rhode-saint-genese/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-sint-genesius-rode/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-brussel/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-brussel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-bruxelles/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-bruxelles/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-bruxelles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-brussel/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-tubeke/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-tubeke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-tubize/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-tubize/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-tubize/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-tubeke/"/>
+  </url>
 </urlset>
