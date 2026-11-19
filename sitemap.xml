@@ -300,4 +300,64 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-avant-travaux/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-voor-werken/"/>
   </url>
+  <url>
+    <loc>https://expertiseck.be/nl/tips/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/conseils/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/tips/plaatsbeschrijving-intrede-eerste-maand/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/etat-des-lieux-entree-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/plaatsbeschrijving-intrede-eerste-maand/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/conseils/etat-des-lieux-entree-premier-mois/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/etat-des-lieux-entree-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/plaatsbeschrijving-intrede-eerste-maand/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/tips/huurwaarborg-vlaanderen/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/garantie-locative-flandre/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/huurwaarborg-vlaanderen/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/conseils/garantie-locative-flandre/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/garantie-locative-flandre/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/huurwaarborg-vlaanderen/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/tips/normale-slijtage-of-huurschade/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/usure-normale-degat-locatif/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/normale-slijtage-of-huurschade/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/conseils/usure-normale-degat-locatif/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/usure-normale-degat-locatif/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/normale-slijtage-of-huurschade/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/nl/tips/vraagprijs-of-verkoopwaarde/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/prix-demande-valeur-venale/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/vraagprijs-of-verkoopwaarde/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/conseils/prix-demande-valeur-venale/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/conseils/prix-demande-valeur-venale/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/tips/vraagprijs-of-verkoopwaarde/"/>
+  </url>
 </urlset>
