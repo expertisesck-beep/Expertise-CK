@@ -288,4 +288,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/estimation-immobiliere-brabant-wallon/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/vastgoedschatting-waals-brabant/"/>
   </url>
+  <url>
+    <loc>https://expertiseck.be/nl/plaatsbeschrijving-voor-werken/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-voor-werken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-avant-travaux/"/>
+  </url>
+  <url>
+    <loc>https://expertiseck.be/etat-des-lieux-avant-travaux/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://expertiseck.be/etat-des-lieux-avant-travaux/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://expertiseck.be/nl/plaatsbeschrijving-voor-werken/"/>
+  </url>
 </urlset>
